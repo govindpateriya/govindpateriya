@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&height=100&lines=SYSTEM.INIT(GOVIND_PATERIYA);FULL-STACK+ARCHITECT;PERFORMANCE+SPECIALIST" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://govindpateriya.github.io/personal_portfolio/"><img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/govind-r-pateriya-97842a218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://personal-portfolio-eight-sigma-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="mailto:govindpateriya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,10 +16,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=govindpateriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=C9D1D9&icon_color=FF00E4" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=govindpateriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9&icon_color=%23FF00E4" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindpateriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=C9D1D9" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindpateriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9" alt="Top Languages" />
     </td>
   </tr>
 </table>
