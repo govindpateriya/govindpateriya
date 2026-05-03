@@ -16,10 +16,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=govindpateriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9&icon_color=%23FF00E4" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=govindpateriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9&icon_color=%23FF00E4" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=govindpateriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=govindpateriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=%230D1117&title_color=%2300F2FF&text_color=%23C9D1D9" alt="Top Languages" />
     </td>
   </tr>
 </table>
